@@ -1,1 +1,1 @@
-Setting permission to the file hello
+Setting the mode of the file
