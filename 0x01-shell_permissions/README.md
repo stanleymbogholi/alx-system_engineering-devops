@@ -1,1 +1,1 @@
-Adding execution permission to the owner, goup and other users
+Setting permission to the file hello
