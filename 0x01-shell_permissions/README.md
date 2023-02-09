@@ -1,1 +1,1 @@
-Creating a directory with permissions
+Changing the group ownership
