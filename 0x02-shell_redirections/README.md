@@ -1,1 +1,1 @@
-No more javascript
+Counting directories
