@@ -1,1 +1,1 @@
-Divide and rule
+Breath to the power of love
