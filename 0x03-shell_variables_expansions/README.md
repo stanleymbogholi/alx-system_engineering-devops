@@ -1,1 +1,1 @@
-Addition of 128
+Divide and rule
