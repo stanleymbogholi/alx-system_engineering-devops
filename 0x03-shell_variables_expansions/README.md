@@ -1,1 +1,1 @@
-Counting the number of directories
+Global variables
