@@ -1,1 +1,1 @@
-Eggs of the brood
+I'm an instant star
